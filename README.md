@@ -5,5 +5,6 @@ Website that list all of the Overwatch Twitch streamers I follow and provides th
 This project is licensed under the Apache License - see the LICENSE file for details
 
 ## Acknowledgments
-* FreeCodeCamp - Provided challange, lessons, and inspiration - FreeCodeCamp.com
-* Wikipedia - Used their API - https://www.mediawiki.org/wiki/API:Main_page
+* FreeCodeCamp - Provided challange, lessons, and inspiration. - FreeCodeCamp.com
+* Twitch - Used their API - https://dev.twitch.tv/ and https://wind-bow.glitch.me/
+* 

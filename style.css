@@ -1,11 +1,12 @@
 body {
-    background: #F7F6E7;    
+  background: #f7f6e7;
 }
 @media screen and (max-width: 767px) {
   .title-box {
     font-size: 24px;
   }
-  .game-offline, .game {
+  .game-offline,
+  .game {
     font-size: 18px;
   }
   .name {
@@ -16,7 +17,8 @@ body {
   .title-box {
     font-size: 30px;
   }
-  .game-offline, .game {
+  .game-offline,
+  .game {
     font-size: 20px;
     float: right;
   }
@@ -31,7 +33,8 @@ body {
   .title-box {
     font-size: 30px;
   }
-  .game-offline, .game {
+  .game-offline,
+  .game {
     font-size: 20px;
     float: right;
   }
@@ -46,7 +49,8 @@ body {
   .title-box {
     font-size: 30px;
   }
-  .game-offline, .game {
+  .game-offline,
+  .game {
     font-size: 20px;
     float: right;
   }
@@ -64,59 +68,59 @@ body {
   margin: 3vh auto;
 }
 .top-box {
-  background: #C1C0B9;
+  background: #c1c0b9;
   margin: 0 0 3px 0;
   padding: 15px 0 15px 10px;
 }
 .title-box {
   text-align: center;
   font-size: 30px;
-  font-family: 'Gugi', cursive;
+  font-family: "Gugi", cursive;
   font-weight: 450;
   color: black;
   padding: 15px 0 15px 10px;
 }
 .btn-custom {
-    font-size: 20px;
-    font-family: 'Gugi', cursive;
-    font-weight: 450;
-    border: none;
-    outline: none !important;
-    height: 40px;
-    margin: 0px 6px 0px 0px;
-    width: 50px;
-    float: right;
+  font-size: 20px;
+  font-family: "Gugi", cursive;
+  font-weight: 450;
+  border: none;
+  outline: none !important;
+  height: 40px;
+  margin: 0px 6px 0px 0px;
+  width: 50px;
+  float: right;
 }
 .online {
   color: black;
-  background-color: #81DC6B;
+  background-color: #81dc6b;
 }
 .offline {
   color: black;
-  background-color: #DC6B6B;
+  background-color: #dc6b6b;
   margin: 0px 10px 0px 0px;
 }
 .all {
   color: black;
-  background-color: #6BC6DC; 
+  background-color: #6bc6dc;
 }
 .streamer-box {
-  background: #F7F6E7;
+  background: #f7f6e7;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 .footer-box {
-  background: #C1C0B9;
+  background: #c1c0b9;
   text-align: center;
 }
 .eachOn-streamer {
-  background: #756C83;
+  background: #756c83;
   padding: 10px;
   margin: 0 0 3px 0;
 }
 .eachOff-streamer {
-  background: #756C83;
+  background: #756c83;
   padding: 10px;
   margin: 0 0 3px 0;
 }
@@ -128,36 +132,36 @@ body {
   max-height: 100px;
 }
 .name {
-  font-family: 'Gugi', cursive;
+  font-family: "Gugi", cursive;
   font-weight: 450;
   color: black;
   margin: 0 25px 0 25px;
 }
 a:visited {
-  color: #F7F6E7;
+  color: #f7f6e7;
 }
 a:link {
-  color: #F7F6E7;
+  color: #f7f6e7;
 }
 a:active {
-  color: #F7F6E7;
+  color: #f7f6e7;
 }
 a:hover {
-  color: #F7F6E7;
+  color: #f7f6e7;
 }
 .game {
-  font-family: 'Gugi', cursive;
+  font-family: "Gugi", cursive;
   font-weight: 450;
   color: black;
-  background: #81DC6B;
+  background: #81dc6b;
   border-radius: 5px;
   padding: 0 3px 0 3px;
 }
 .game-offline {
-  font-family: 'Gugi', cursive;
+  font-family: "Gugi", cursive;
   font-weight: 450;
   color: black;
-  background: #DC6B6B;
+  background: #dc6b6b;
   border-radius: 5px;
   padding: 0 3px 0 3px;
 }
@@ -165,4 +169,3 @@ a:hover {
   display: inline-block;
   margin: auto;
 }
-
